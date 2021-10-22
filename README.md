@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julefox
 - 👀 I’m interested in Apex Mods
-- 🌱 I’m currently learning C++ and Squirrel / Apex Respawn Squirrel
+- 🌱 I’m currently learning Apex Respawn Squirrel
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me Twitter: @Julefox_ Discord: Julefox_#0050
 
