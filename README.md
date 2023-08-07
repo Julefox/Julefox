@@ -1,2 +1,2 @@
 - 👋 Hi everyone
-- 📫 Twitter: @Julefox_ Discord: Julefox_#0050
+- 📫 Twitter: @Julefox_ Discord: julefox
